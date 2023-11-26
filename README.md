@@ -14,9 +14,9 @@ To use this smart contract, you can simply copy the code from CustomToken.sol an
 
 ### Executing program
 
-1.) Deploy the CustomToken contract on an Ethereum-compatible blockchain.
-2.) Provide the initial owner's address during deployment.
-3.) Interact with the contract using the Ethereum wallet of the owner address to mint, transfer, and burn tokens.
+* Deploy the CustomToken contract on an Ethereum-compatible blockchain.
+* Provide the initial owner's address during deployment.
+* Interact with the contract using the Ethereum wallet of the owner address to mint, transfer, and burn tokens.
 solidity
 
 ## Help
